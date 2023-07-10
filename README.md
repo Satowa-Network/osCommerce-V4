@@ -1,3 +1,4 @@
+<h1>WARNING! THIS PROJECT IS CURRENTLY NOT MAINTAINED BY US!</h1>
 <p align="center">
     <a href="https://github.com/osCommerce" target="_blank">
         <img src="https://www.oscommerce.com/images/blog/logo%20osC.webp" height="100px">
